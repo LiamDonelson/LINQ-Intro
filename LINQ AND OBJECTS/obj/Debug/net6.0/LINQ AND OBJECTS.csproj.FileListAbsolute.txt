@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.AssemblyInfo.cs
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\bin\Debug\net6.0\LINQ AND OBJECTS.exe
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\bin\Debug\net6.0\LINQ AND OBJECTS.deps.json
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\bin\Debug\net6.0\LINQ AND OBJECTS.runtimeconfig.json
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\bin\Debug\net6.0\LINQ AND OBJECTS.dll
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\bin\Debug\net6.0\LINQ AND OBJECTS.pdb
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.dll
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\refint\LINQ AND OBJECTS.dll
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.pdb
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\LINQ AND OBJECTS.genruntimeconfig.cache
+C:\Users\Liam\source\repos\LINQ AND OBJECTS\LINQ AND OBJECTS\obj\Debug\net6.0\ref\LINQ AND OBJECTS.dll
